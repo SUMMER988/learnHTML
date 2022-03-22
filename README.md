@@ -1,5 +1,5 @@
 # <font size = "7" ><strong>learnHTML</strong></font>
-<font size = "5" >
+<span  style="font-size: large; ">
 
 - HTML learning record
 
@@ -16,4 +16,4 @@
   - 变换
 
 
-</font>
+</span>
