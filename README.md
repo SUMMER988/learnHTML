@@ -1,7 +1,7 @@
 # <font size = "7" ><strong>learnHTML</strong></font>
 <font size = "5" >
 
-- record learning HTML
+- HTML learning record
 
 # Markdown
 - 你好我是李焕英
