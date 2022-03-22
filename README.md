@@ -1,10 +1,10 @@
 # <font size = "7" ><strong>learnHTML</strong></font>
-<span  style="font-size: large; ">
+<span  style="font-size: 30px; ">
 
-- HTML learning record
+- **HTML learning record**
 
 # Markdown
-- 你好我是李焕英
+- **你好我是李焕英**
   - 时间
   - 地点
   - 人物
@@ -14,6 +14,5 @@
   - 结果
   - 特写
   - 变换
-
 
 </span>
